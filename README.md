@@ -1,3 +1,5 @@
+> **This project moved to [conao3/lean-leanfran](https://github.com/conao3/lean-leanfran/tree/master/Python).** Development continues in its `Python/` directory.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/conao3/lean-py/master/docs/assets/banner.png" alt="lean-py: write and prove functions in Lean 4, run them as Python" width="880">
 </p>
