@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v7.0.1
         with:
           ref: ${{ inputs.tag }}
-      - uses: cachix/install-nix-action@v31.11.3
+      - uses: cachix/install-nix-action@v31.11.5
       - run: |
           v=$(sed -n 's/^version = "\(.*\)"/\1/p' pyproject.toml)
           test "v$v" = "${{ inputs.tag }}"
