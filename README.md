@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="#install">Install</a> ·
-  <a href="#lean-blocks">Lean blocks</a> ·
-  <a href="#values">Values</a> ·
-  <a href="#verifying-python-functions">Verifying Python functions</a> ·
-  <a href="#examples">Examples</a> ·
-  <a href="#performance">Performance</a> ·
+  <a href="#install">Install</a> |
+  <a href="#lean-blocks">Lean blocks</a> |
+  <a href="#values">Values</a> |
+  <a href="#verifying-python-functions">Verifying Python functions</a> |
+  <a href="#examples">Examples</a> |
+  <a href="#performance">Performance</a> |
   <a href="https://pypi.org/project/lean-python/">PyPI</a>
 </p>
 
